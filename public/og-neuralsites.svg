@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#05030B"/>
+  <path d="M0 0h1200v630H0z" fill="url(#g)"/>
+  <g opacity=".22" stroke="#22D3EE"><path d="M0 140h1200M0 260h1200M0 380h1200M0 500h1200M180 0v630M360 0v630M540 0v630M720 0v630M900 0v630M1080 0v630"/></g>
+  <text x="90" y="270" fill="white" font-family="Arial, sans-serif" font-size="92" font-weight="800">NeuralSites</text>
+  <text x="94" y="350" fill="#B7C5FF" font-family="Arial, sans-serif" font-size="38">AI-Powered Websites Built For The Future</text>
+  <rect x="90" y="410" width="290" height="66" rx="33" fill="#22D3EE"/>
+  <text x="126" y="454" fill="#05030B" font-family="Arial, sans-serif" font-size="24" font-weight="700">Launch Your Website</text>
+  <defs><radialGradient id="g" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(885 180) rotate(141) scale(740 500)"><stop stop-color="#8B5CF6" stop-opacity=".55"/><stop offset=".45" stop-color="#22D3EE" stop-opacity=".18"/><stop offset="1" stop-color="#05030B" stop-opacity="0"/></radialGradient></defs>
+</svg>

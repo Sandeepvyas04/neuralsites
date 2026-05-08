@@ -1,0 +1,28 @@
+<svg width="900" height="560" viewBox="0 0 900 560" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="560" rx="34" fill="#050712"/>
+  <rect x="40" y="46" width="820" height="468" rx="26" fill="#0B1220" stroke="#26334B"/>
+  <rect x="74" y="86" width="64" height="388" rx="18" fill="#101827"/>
+  <circle cx="106" cy="122" r="12" fill="#22D3EE"/>
+  <rect x="170" y="86" width="610" height="34" rx="12" fill="#172236"/>
+  <g stroke="#22D3EE" stroke-width="4" opacity=".9">
+    <path d="M190 218C222 182 250 244 283 204C318 162 356 228 392 186"/>
+    <path d="M475 222C506 188 545 238 578 199C612 160 656 230 700 180"/>
+    <path d="M190 393C232 342 274 410 316 360C354 314 402 392 446 338"/>
+  </g>
+  <g fill="#101B2D" stroke="#273650">
+    <rect x="170" y="150" width="270" height="132" rx="18"/>
+    <rect x="470" y="150" width="270" height="132" rx="18"/>
+    <rect x="170" y="316" width="270" height="132" rx="18"/>
+    <rect x="470" y="316" width="270" height="132" rx="18"/>
+  </g>
+  <g fill="#22D3EE">
+    <rect x="525" y="370" width="20" height="48" rx="5"/>
+    <rect x="562" y="342" width="20" height="76" rx="5"/>
+    <rect x="599" y="314" width="20" height="104" rx="5"/>
+    <rect x="636" y="356" width="20" height="62" rx="5"/>
+    <rect x="673" y="286" width="20" height="132" rx="5"/>
+  </g>
+  <circle cx="702" cy="216" r="42" stroke="#22D3EE" stroke-width="12"/>
+  <text x="190" y="195" fill="white" font-family="Arial" font-size="28" font-weight="700">Real-time SaaS</text>
+  <text x="190" y="360" fill="white" font-family="Arial" font-size="28" font-weight="700">Growth Analytics</text>
+</svg>
